@@ -1,16 +1,25 @@
 $(document).ready(function() {
-  $("button#green").click(function() {
+  $("button#grey").click(function() {
     $("body").removeClass();
-    $("body").addClass("green-background");
+    $("body").addClass("grey-background");
   });
 
-  $("button#yellow").click(function() {
+  $("button#black").click(function() {
     $("body").removeClass();
-    $("body").addClass("yellow-background");
+    $("body").addClass("black-background");
   });
 
-  $("button#red").click(function() {
+  $("button#grey-color").click(function() {
     $("body").removeClass();
-    $("body").addClass("red-background");
+    $("body").addClass("grey-color");
+  });
+
+  $("button#black-color").click(function() {
+    $("body").removeClass();
+    $("body").addClass("black-color");
+  });
+  $("body").removeClass();
+  $("button#white").click(function() {
+    $("body").addClass("white-background");
   });
 });

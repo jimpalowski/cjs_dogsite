@@ -41,14 +41,23 @@ ol {
 }
 
 
-.green-background {
-  background-color: green;
+.grey-background {
+  background-color: grey;
 }
 
-.yellow-background {
-  background-color: yellow;
+.black-background {
+  background-color: black;
 }
 
-.red-background {
-  background-color: red;
+.grey-color {
+  color: grey;
+}
+
+.black-color {
+  color:black;
+}
+
+.white-background {
+background-color: white;
+
 }
