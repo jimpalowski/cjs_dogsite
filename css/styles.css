@@ -1,0 +1,54 @@
+nav {
+  border: 1px solid #999;
+  background-color: #1ffbea;
+  border-color: #1ffbea;
+  word-spacing: 30px;
+  word-spacing: 200px;
+  border-top: 40px;
+  border-bottom: 1px;
+  padding-top: 5px;
+  padding-right: 81%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  list-style-type: none;
+}
+
+.thedog {
+  font-weight: bolder;
+  font-size: 24px;
+  color: #ff0000;
+}
+
+#homebody {
+
+}
+
+#contactbody {
+
+}
+
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
